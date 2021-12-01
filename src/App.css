@@ -1,0 +1,56 @@
+*{
+
+  margin:0;
+  padding: 0;
+}
+
+body{
+
+color:#fff;
+
+
+}
+
+canvas {
+
+  position:fixed;
+  top:0;
+  left:0;
+  z-index: -1
+}
+
+#root{
+
+  max-width: 400px;
+}
+
+.app{
+  padding: 4em 3em;
+  max-width: 300px;
+}
+
+.hero{
+
+  
+ 
+}
+
+.title{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+color:#ffffff;
+font-size: 3em;
+}
+
+.bread{
+  font-family: Courier New, Courier, monospace;
+color:#ffffff;
+font-size: 1em;
+}
+
+#footer{
+  font-family: Courier New, Courier, monospace;
+  padding-bottom: 4em;
+  position: absolute;
+  bottom: 0;
+
+}
